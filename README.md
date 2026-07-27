@@ -1,7 +1,3 @@
-[podcast (online-audio-converter.com).mp3](https://github.com/user-attachments/files/30419865/podcast.online-audio-converter.com.mp3)<img width="1408" height="768" alt="Gemini_Generated_Image_h3x9z1h3x9z1h3x9" src="https://github.com/user-attachments/assets/e57182ea-525c-45f7-bf54-bf9c10361e82" />
-
-
-
 ## 🎙️ PlayCast - Porque toda série merece um debate
 
 O PlayCast é um podcast dedicado ao universo das séries, trazendo análises, curiosidades, teorias e debates sobre histórias, personagens e produções conhecidas e "desconhecidas".
