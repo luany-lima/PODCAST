@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_h3x9z1h3x9z1h3x9" src="https://github.com/user-attachments/assets/9219556c-c98e-4a6f-913a-d8d3e1821dac" />
 ## 🎙️ PlayCast - Porque toda série merece um debate
 
 O PlayCast é um podcast dedicado ao universo das séries, trazendo análises, curiosidades, teorias e debates sobre histórias, personagens e produções conhecidas e "desconhecidas".
