@@ -4,7 +4,7 @@
 
 ### Apresentadora
 
-Uma pessoa jovem sentada em um sofá confortável em um ambiente de podcast. A pessoa está sorrindo de forma natural, transmitindo entusiasmo e conexão com o público.
+Uma pessoa jovem, com tom de pele moreno e cabelos castanhos, lisos e médios, sentada em um sofá confortável em um ambiente de podcast. A pessoa está sorrindo de forma natural, transmitindo entusiasmo e conexão com o público.
 
 Ela segura um microfone profissional de podcast com suporte articulado, representando uma conversa descontraída.
 
