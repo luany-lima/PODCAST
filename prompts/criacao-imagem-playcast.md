@@ -2,7 +2,7 @@
 
 ## [ELEMENTOS CHAVE]
 
-### Apresentador(a)
+### Apresentadora
 
 Uma pessoa jovem sentada em um sofá confortável em um ambiente de podcast. A pessoa está sorrindo de forma natural, transmitindo entusiasmo e conexão com o público.
 
@@ -24,14 +24,9 @@ O título deve possuir iluminação indireta e aparência premium.
 
 Objetos relacionados ao universo das séries:
 
-- Claquete de cinema;
 - Câmera de filmagem;
 - Rolo de filme;
-- Microfone vintage;
-- Televisão retrô;
 - Fita VHS;
-- Fones de ouvido;
-- Botão de play em 3D.
 
 Elementos relacionados aos gêneros de séries:
 
