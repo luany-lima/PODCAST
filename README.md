@@ -23,7 +23,8 @@ Tema:
 "Por que algumas séries conseguem prender nossa atenção?"
 
 Arquivo:
-[audio do episódio](online-audio-converter.com).mp3(https://github.com/user-attachments/files/30419469/podcast.online-audio-converter.com.mp3).
+[Piloto](https://github.com/user-attachments/files/30419512/podcast.online-audio-converter.com.mp3)
+
 
 ## 🤖 Inteligência Artificial utilizada
 
