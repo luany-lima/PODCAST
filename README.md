@@ -30,8 +30,9 @@ Arquivo:
 Ferramentas utilizadas:
 - ChatGPT: criação do nome, conceito e roteiro;
 - ElevenLabs: geração da narração;
+- CapCut: edição de aúdio
 - Gemini: identidade visual.
-
+  
 ## 📌 Prompts utilizados
 
 Os prompts utilizados durante o desenvolvimento estão disponíveis na pasta `/prompts`.
